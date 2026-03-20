@@ -389,8 +389,8 @@ for subject, sender, body in emails:
 
 ## Developer Information
 
-**Developer:** Sunil Prajapat  
-**Contact:** [sunilprajapat2907@gmail.com](mailto:sunilprajapat2907@gmail.com)
+**Developer:** Shivang Raj Saxena  
+**Contact:** [shivangrajsaxena1403@gmail.com](mailto:shivangrajsaxena1403@gmail.com)
 
 Developed by Sunil Prajapat as part of a patent-ready AI cybersecurity project, **PhishGuard AI: Adaptive Hybrid System for Zero-Day Email Phishing Detection and Risk Intelligence**.
 
