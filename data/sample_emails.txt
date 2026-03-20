@@ -1,0 +1,117 @@
+# Sample Emails for Testing PhishGuard-AI++
+
+## Sample 1: Phishing Email (High Risk)
+From: security@paypal-verify.com
+To: user@example.com
+Subject: Urgent: Your Account Will Be Suspended
+
+Dear Customer,
+
+We have detected unusual activity on your account. Your account will be 
+suspended within 24 hours if you don't verify your identity immediately.
+
+Click here to verify: http://paypal-verify.com/secure
+
+Thank you,
+PayPal Security Team
+
+---
+
+## Sample 2: Phishing Email (Medium Risk)
+From: noreply@amazon-account-update.com
+To: customer@example.com
+Subject: Action Required: Update Your Payment Method
+
+Hello,
+
+Your payment method on file has expired. Please update your payment 
+information to avoid service interruption.
+
+Update Now: https://amazon-account-update.com/payment
+
+Best regards,
+Amazon Customer Service
+
+---
+
+## Sample 3: Legitimate Email (Low Risk)
+From: noreply@github.com
+To: user@example.com
+Subject: GitHub: Password reset requested
+
+Hello,
+
+We received a request to reset your password. If you made this request, 
+please click the link below:
+
+https://github.com/password_reset?token=abc123xyz
+
+If you didn't request this, you can safely ignore this email.
+
+Best regards,
+GitHub Support
+
+---
+
+## Sample 4: Suspicious Email (High Urgency)
+From: support@bank-security-alert.com
+To: account-holder@example.com
+Subject: IMMEDIATE ACTION REQUIRED - Account Locked
+
+URGENT SECURITY ALERT
+
+Your account has been locked due to suspicious activity. You must verify 
+your identity within 2 hours or your account will be permanently closed.
+
+Verify Now: http://bank-security-alert.com/verify
+
+This is your FINAL WARNING.
+
+Security Team
+
+---
+
+## Sample 5: Legitimate Newsletter (Very Low Risk)
+From: newsletter@company.com
+To: subscriber@example.com
+Subject: Monthly Newsletter - January 2024
+
+Hi there,
+
+Welcome to our monthly newsletter! Here's what's new this month:
+
+- New product launches
+- Upcoming events
+- Special offers
+
+Read more: https://company.com/newsletter/january-2024
+
+Thanks for subscribing!
+
+The Team
+
+---
+
+## Sample 6: Phishing (Malicious) Email Example
+
+Subject: Immediate Action Required: Account Access Suspended
+From: security-team@paypalsecure-verify.com
+
+To: sunilprajapat2907@gmail.com
+
+
+Dear Sunil,
+
+We have detected unusual activity on your PayPal account.
+To protect your funds, your account has been temporarily suspended.
+
+Please verify your identity immediately by clicking the link below:
+
+https://paypal-security-verify.com/login
+
+Failure to verify your account within 24 hours will result in permanent account closure.
+
+Thank you for your prompt attention.
+
+PayPal Security Department
+(c) 2026 PayPal Inc.

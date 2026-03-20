@@ -1,0 +1,48 @@
+timestamp,sender,subject,risk_score,alert_sent
+2026-01-22T23:30:45.249348,Google <no-reply@accounts.google.com>,Security alert,0.3087,No
+2026-01-22T23:42:45.836931,Google <no-reply@accounts.google.com>,Security alert,0.6350,Yes
+2026-01-22T23:47:51.306445,Google <no-reply@accounts.google.com>,Security alert,0.3087,No
+2026-01-22T23:50:01.584234,Google <no-reply@accounts.google.com>,Security alert,0.3087,No
+2026-01-22T23:51:37.710672,Google <no-reply@accounts.google.com>,Security alert,0.6350,Yes
+2026-01-23T00:06:31.479585,Google <no-reply@accounts.google.com>,Security alert,0.3087,No
+2026-01-23T00:07:37.027764,Google <no-reply@accounts.google.com>,Security alert,0.6350,Yes
+2026-01-23T00:42:22.062221,Google <no-reply@accounts.google.com>,Security alert,0.6350,Yes
+2026-01-23T00:42:35.057262,Google <no-reply@accounts.google.com>,Security alert,0.3087,No
+2026-01-23T00:42:43.372331,Google <no-reply@accounts.google.com>,Security alert,0.6350,Yes
+2026-01-23T00:42:49.283402,Google <no-reply@accounts.google.com>,Security alert,0.6350,Yes
+2026-01-23T00:42:52.940314,Google <no-reply@accounts.google.com>,2-Step Verification turned on,0.1773,No
+2026-01-23T00:48:33.929189,Google <no-reply@accounts.google.com>,Security alert,0.3087,No
+2026-01-23T00:48:40.464916,Google <no-reply@accounts.google.com>,Security alert,0.6351,Yes
+2026-01-23T00:48:47.803622,Google <no-reply@accounts.google.com>,Security alert,0.6350,Yes
+2026-01-23T00:48:51.450764,Google <no-reply@accounts.google.com>,Security alert,0.3086,No
+2026-01-23T00:48:55.040431,Google <no-reply@accounts.google.com>,2-Step Verification turned on,0.5350,No
+2026-01-24T00:26:41.046410,Google <no-reply@accounts.google.com>,Security alert,0.3087,No
+2026-01-24T00:26:45.971108,Google <no-reply@accounts.google.com>,Security alert,0.3087,No
+2026-01-24T00:26:50.284626,Google <no-reply@accounts.google.com>,Security alert,0.3087,No
+2026-01-24T00:26:54.453732,Google <no-reply@accounts.google.com>,Security alert,0.3086,No
+2026-01-24T00:26:58.332374,Google <no-reply@accounts.google.com>,2-Step Verification turned on,0.1773,No
+2026-01-24T00:29:27.500162,ChatGPT <noreply@email.openai.com>,You + ChatGPT Images,0.6270,Yes
+2026-01-24T00:29:33.031888,ChatGPT <noreply@email.openai.com>,Use ChatGPT to make life easier,0.6229,Yes
+2026-01-24T00:29:38.303909,ChatGPT <noreply@email.openai.com>,Write faster with ChatGPT,0.6241,Yes
+2026-01-24T00:29:43.962983,ChatGPT <noreply@email.openai.com>,Easy self-care you can start today,0.6189,Yes
+2026-01-24T00:29:50.492645,Canva <marketing@engage.canva.com>,"Ooh, your Design DNA results are in! ✨",0.4518,No
+2026-01-24T00:45:47.494388,ChatGPT <noreply@email.openai.com>,You + ChatGPT Images,0.6270,Yes
+2026-01-24T00:45:52.452097,ChatGPT <noreply@email.openai.com>,Use ChatGPT to make life easier,0.6229,Yes
+2026-01-24T00:45:58.143093,ChatGPT <noreply@email.openai.com>,Write faster with ChatGPT,0.6241,Yes
+2026-01-24T00:46:03.972937,ChatGPT <noreply@email.openai.com>,Easy self-care you can start today,0.6189,Yes
+2026-01-24T00:46:08.610627,Canva <marketing@engage.canva.com>,"Ooh, your Design DNA results are in! ✨",0.4518,No
+2026-01-24T00:58:33.168322,ChatGPT <noreply@email.openai.com>,Write faster with ChatGPT,0.6241,Yes
+2026-01-24T00:58:37.804377,Canva <marketing@engage.canva.com>,"Ooh, your Design DNA results are in! ✨",0.4518,No
+2026-01-24T00:58:42.369367,ChatGPT <noreply@email.openai.com>,Ask anything – really,0.6194,Yes
+2026-01-24T00:58:46.571483,Canva <marketing@engage.canva.com>,"Ooh, your Design DNA results are in! ✨",0.4522,No
+2026-01-24T00:58:51.569250,LeetCode <no-reply@leetcode.com>,🚨 FINAL HOURS - $40 off Annual Subscription,0.6266,Yes
+2026-01-24T01:07:09.024898,Canva <marketing@engage.canva.com>,"Ooh, your Design DNA results are in! ✨",0.4518,No
+2026-01-24T01:07:16.950298,ChatGPT <noreply@email.openai.com>,Ask anything – really,0.6194,Yes
+2026-01-24T01:07:21.414450,Canva <marketing@engage.canva.com>,"Ooh, your Design DNA results are in! ✨",0.4522,No
+2026-01-24T01:07:26.885773,LeetCode <no-reply@leetcode.com>,🚨 FINAL HOURS - $40 off Annual Subscription,0.6266,Yes
+2026-01-24T01:07:33.644283,ChatGPT <noreply@email.openai.com>,Free ChatGPT Go for 12 months,0.6243,Yes
+2026-01-24T16:36:50.010345,ChatGPT <noreply@email.openai.com>,Ask anything – really,0.6194,Yes
+2026-01-24T16:36:54.458010,Canva <marketing@engage.canva.com>,"Ooh, your Design DNA results are in! ✨",0.4522,No
+2026-01-24T16:36:59.581539,LeetCode <no-reply@leetcode.com>,🚨 FINAL HOURS - $40 off Annual Subscription,0.6266,Yes
+2026-01-24T16:37:04.968806,Canva World Tour <canvaworldtour@engage.canva.com>,Here’s what you missed 👀,0.6193,Yes
+2026-01-24T16:37:08.841936,Canva <marketing@engage.canva.com>,"Create amazing, high-quality videos",0.4512,No

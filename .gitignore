@@ -1,0 +1,55 @@
+# ================================
+# Python cache and compiled files
+# ================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ================================
+# Virtual environment folders
+# (do not upload venvs)
+# ================================
+.venv/
+venv/
+env/
+
+# ================================
+# IDE / Editor settings
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ================================
+# OS-specific junk files
+# ================================
+.DS_Store
+Thumbs.db
+
+# ================================
+# Temporary / backup files
+# ================================
+*.log
+*.tmp
+*.bak
+*.backup
+*.old
+
+# ================================
+# Jupyter / notebook junk
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# Build / distribution folders
+# ================================
+build/
+dist/
+
+# ================================
+# IMPORTANT: Explicitly allow these
+# ================================
+!.env
+!logs/email_logs.csv
